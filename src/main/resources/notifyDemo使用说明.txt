@@ -1,0 +1,3 @@
+1,notifyDemo在lib下：msc-notify-demo-1.0-SNAPSHOT.jar是运行jar,msc-notify-demo-1.0-SNAPSHOT-source.jar是源码
+2,测试前需在java运行环境下执行java -jar msc-notify-demo-1.0-SNAPSHOT.jar，并将192.168.70.120下的haproxy 指向你的ip地址
+3,不过现在msc-notify下没有dns环境，换成ip后依然报超时异常，待解决
